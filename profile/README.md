@@ -20,5 +20,5 @@ You can visit it for:
 * **Releases**: [it's here](https://github.com/joplin-vieweb/joplin-vieweb/releases)  
   I suggest you to watch at least for the release, to be notified when updates are available:  
   ![image](https://user-images.githubusercontent.com/26554495/166325184-d84c818b-ece4-422e-8077-935428274234.png)
-* **Input bugs**: (but seriously, I do zarro bugs 😆), [it's here](https://github.com/joplin-vieweb/joplin-vieweb/issues)
+* **Input bugs**: (but seriously, I do zarro bugs 😋), [it's here](https://github.com/joplin-vieweb/joplin-vieweb/issues)
 
