@@ -1,6 +1,6 @@
 # joplin-vieweb
 A simple web viewer for [Joplin](https://joplinapp.org/) notes.  
-If it's useful for you, you may consider to [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate/?business=T4U6TRV3PKYMY&no_recurring=0&item_name=Thanks+for+your+support+to+Joplin-Vieweb.%0AI+hope+you+find+it+useful.&currency_code=EUR)
+<div style="text-align: right; float: right;">If it's useful for you, you may consider to <a href="https://www.paypal.com/donate/?business=T4U6TRV3PKYMY&no_recurring=0&item_name=Thanks+for+your+support+to+Joplin-Vieweb.%0AI+hope+you+find+it+useful.&currency_code=EUR"><img style="float: right; margin-left: 10px; margin-top: 2px;" alt="donate" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif"></a></div>
 
 ## Purpose
 I'm going to use [Joplin](https://joplinapp.org/) as a notes application.  
