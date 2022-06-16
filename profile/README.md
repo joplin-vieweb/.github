@@ -12,6 +12,9 @@ It's running on a "Django server", running beside [Joplin terminal app](https://
 ## Screenshot
 ![oplin-vieweb-screenshot](https://user-images.githubusercontent.com/26554495/121716124-f1e88f80-cadf-11eb-806b-c8b8d8c5ec03.png)
 
+## Contact
+I you want to discuss, ask, suggest... Please start [a discussion on github](https://github.com/orgs/joplin-vieweb/discussions), or post [on discord](https://discord.gg/akkn2y8vEg).
+
 # Features ~ Install ~ Releases
 The "umbrella project" is [joplin-vieweb/joplin-vieweb](https://github.com/joplin-vieweb/joplin-vieweb/).  
 You can visit it for:
