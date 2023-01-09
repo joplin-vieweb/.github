@@ -24,6 +24,7 @@ You can visit it for:
 
 * **Detailed features**: it's [here](https://github.com/joplin-vieweb/joplin-vieweb/#features-and-not-yet-features).
 * **Installation** / **configuration** / **upgrade instructions**: [it' here](https://github.com/joplin-vieweb/joplin-vieweb/#installation--configuration-instructions).
+    * Configuration of apache2 as server for Joplin: [it's here](https://github.com/joplin-vieweb/joplin-vieweb/wiki/Install-joplin-vieweb-on-a-local-web-server,-and-access-it-externally-from-a-subdomain-through-apache2).
 * **Releases**: [it's here](https://github.com/joplin-vieweb/joplin-vieweb/releases)  
   I suggest you to watch at least for the release, to be notified when updates are available:  
   ![image](https://user-images.githubusercontent.com/26554495/166325184-d84c818b-ece4-422e-8077-935428274234.png)
